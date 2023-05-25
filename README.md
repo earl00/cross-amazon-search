@@ -1,0 +1,1 @@
+Universal Amazon Searcher is a Chrome extension that lets you instantly search across eight different Amazon domains at once. Just enter your term, and it opens new tabs for each Amazon site, all neatly grouped together for easy access.
