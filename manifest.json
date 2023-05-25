@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Amazon Multi-Search",
+    "version": "1.0",
+    "description": "Search multiple Amazon sites at once",
+    "permissions": [
+      "tabs",
+      "tabGroups"
+    ],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "Amazon Multi-Search"
+    }
+  }
